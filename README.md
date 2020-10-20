@@ -1,3 +1,3 @@
 # compilerLab
 
-Compiler Design Lab 5th Semester
+Compiler Design Lab Programs
